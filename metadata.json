@@ -1,0 +1,6 @@
+{
+  "name": "Spacey Weather",
+  "description": "A high-fidelity space-themed weather dashboard for checking real Earth destinations and celestial outposts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
